@@ -1,0 +1,9 @@
+
+
+So, in order to execute it, just create a new project in Eclipse.
+It will be much easier with Eclipse. Then import a2_ashinkevich_source 
+into a project. Open TronLightCycle.java in tron_lightcycle.package
+and run it. 
+
+If you want to run it from command line, then 
+start with TronLightCycle.java, it is where the main is.
