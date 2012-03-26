@@ -1,4 +1,8 @@
 
+This is a project I made while studying JAVA. It is a 2D game 
+where you control a lightcycle. I wasn't able to complete everything,
+because I wasn't familiar with game AIs. 
+
 
 So, in order to execute it, just create a new project in Eclipse.
 It will be much easier with Eclipse. Then import a2_ashinkevich_source 
